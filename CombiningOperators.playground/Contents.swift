@@ -253,7 +253,13 @@ Observable.from(1...10)
     })
     .disposed(by: disposeBag)
 
-
+print("----------scan----------")
+Observable.from(1...10)
+    .scan(0, accumulator: +)
+    .subscribe(onNext: {
+        print($0)
+    })
+    .disposed(by: disposeBag)
 
 
 
