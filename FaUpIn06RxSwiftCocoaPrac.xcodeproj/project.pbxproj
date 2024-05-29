@@ -29,6 +29,7 @@
 		D877EFD12C0362E00049CCC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D877EFD32C0362E00049CCC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D877EFD92C0366F20049CCC7 /* CombiningOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CombiningOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D8BE0C382C074CE400071DEA /* TimeBasedOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimeBasedOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				D877EFD92C0366F20049CCC7 /* CombiningOperators.playground */,
+				D8BE0C382C074CE400071DEA /* TimeBasedOperators.playground */,
 				D877EFC42C0362DC0049CCC7 /* FaUpIn06RxSwiftCocoaPrac */,
 				D877EFC32C0362DC0049CCC7 /* Products */,
 				BD5E6CCB6EC696761907D984 /* Pods */,
